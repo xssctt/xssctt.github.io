@@ -1,1 +1,0 @@
-import{_ as e,V as s,W as n,X as t}from"./framework-36065afb.js";const c={},o=t("div",{class:"hint-container tip"},[t("p",{class:"hint-container-title"},"提示"),t("p",null,"我的第一篇文章")],-1),r=t("p",null,"111111111",-1),_=[o,r];function i(l,a){return s(),n("div",null,_)}const f=e(c,[["render",i],["__file","firsrt.html.vue"]]);export{f as default};
